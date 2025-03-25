@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "latitude": 22.7196,
+      "longitude": 75.8577,
+      "price": 2500,
+      "title": "Cozy Studio Apartment",
+      "number_of_stars": 4.5,
+      "rating": 120,
+      "image": "https://fastly.picsum.photos/id/452/536/354.jpg?hmac=E0zclNnH1Q2EW3t-_5zkfmBMYXwwy-nDAIZDmt2LXKs"
+    },
+    {
+      "id": 2,
+      "latitude": 22.7253,
+      "longitude": 75.8650,
+      "price": 3500,
+      "title": "Luxury 2BHK Apartment",
+      "number_of_stars": 4.8,
+      "rating": 220,
+      "image": "https://fastly.picsum.photos/id/452/536/354.jpg?hmac=E0zclNnH1Q2EW3t-_5zkfmBMYXwwy-nDAIZDmt2LXKs"
+    },
+    {
+      "id": 3,
+      "latitude": 22.7125,
+      "longitude": 75.8523,
+      "price": 1800,
+      "title": "Budget-Friendly Room",
+      "number_of_stars": 4.2,
+      "rating": 90,
+      "image": "https://fastly.picsum.photos/id/452/536/354.jpg?hmac=E0zclNnH1Q2EW3t-_5zkfmBMYXwwy-nDAIZDmt2LXKs"
+    },
+    {
+      "id": 4,
+      "latitude": 22.7309,
+      "longitude": 75.8741,
+      "price": 2800,
+      "title": "Modern 1BHK Flat",
+      "number_of_stars": 4.6,
+      "rating": 150,
+      "image": "https://fastly.picsum.photos/id/452/536/354.jpg?hmac=E0zclNnH1Q2EW3t-_5zkfmBMYXwwy-nDAIZDmt2LXKs"
+    },
+    {
+      "id": 5,
+      "latitude": 22.7205,
+      "longitude": 75.8619,
+      "price": 3000,
+      "title": "Spacious Family Apartment",
+      "number_of_stars": 4.7,
+      "rating": 180,
+      "image": "https://fastly.picsum.photos/id/452/536/354.jpg?hmac=E0zclNnH1Q2EW3t-_5zkfmBMYXwwy-nDAIZDmt2LXKs"
+    }
+  ]
+  
